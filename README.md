@@ -1,3 +1,3 @@
 # interview-helper
 A mini project in JAVA.
-This project is done in my Second year and is completely done in JAVA. This may help others for their mini projects and could also be used as a helping tool for college placements.This is also my first repository on GitHub
+Clearing the interview round is the final and one of the most crucial steps involved in placements. Hence, students begin preparing specifically for the interview round. While doing so, they lose a lot of time in gathering information, approaching the right people for help, etc. Even after collecting the resources required for preparation, there is a risk of misplacing this data. Hence, I have created a platform that keeps getting updated so that students can directly access useful data.
